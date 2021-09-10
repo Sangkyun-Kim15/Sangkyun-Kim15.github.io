@@ -7,13 +7,16 @@ comments: false
 ---
 
 ## Education
-* Rutgers University, New Brunswick, NJ
-  k
-* BIT Camp(IT Boot Camp), Seoul, South Korea
-* Dongguk University, Seoul, South Korea
+* Rutgers University, New Brunswick, NJ        May 2021
+    * BS in Computer Science
+* BIT Camp(IT Boot Camp), Seoul, South Korea   Mar - Aug 2015
+* Dongguk University, Seoul, South Korea       Aug 2015
+    * BA in Food Resoureces Economics
 
 ## Work Experience
 * RoitechOne, Seoul, South Korea
+    * Researcher
 
 ## Extracurricular
-* Republic of Korea Army Sergent
+* Republic of Korea Army Sergent               Nov 2010
+    * Honorable Discharge
