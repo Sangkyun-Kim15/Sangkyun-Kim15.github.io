@@ -1,15 +1,12 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+title:  "Image Colorizer with nueral networks"
+date:   2021-09-09
+excerpt: "CS440 Intro Artificial Intelligence"
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+- neural network
+- ai
 comments: true
 ---
 
