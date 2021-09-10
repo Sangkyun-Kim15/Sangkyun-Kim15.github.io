@@ -1,6 +1,6 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
+title:              Sangkyun Kim
+bio:                'BS Computer Science at Rutgers University New Brunswick'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -37,7 +37,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              sangkyun.kim15@gmail.com
 twitter:            username
 facebook:           username
 github-url:         username
