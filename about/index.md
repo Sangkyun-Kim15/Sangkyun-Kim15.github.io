@@ -10,6 +10,7 @@ comments: false
 * Rutgers University, New Brunswick, NJ        May 2021
     * BS in Computer Science
 * BIT Camp(IT Boot Camp), Seoul, South Korea   Mar - Aug 2015
+    * Java Developer course
 * Dongguk University, Seoul, South Korea       Aug 2015
     * BA in Food Resoureces Economics
 
