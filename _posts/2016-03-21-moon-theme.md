@@ -24,3 +24,5 @@ This was the project from CS440 Intro Artificial Intelligence. The goal was to c
 * 5 nodes in the hidden layer
 * 3 nodes in output layer (pixel has R, G, B)
 * Using sigmoid function as activation function
+
+![](../assets/img/advanced1.png)
