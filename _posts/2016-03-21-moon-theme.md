@@ -26,3 +26,5 @@ This was the project from CS440 Intro Artificial Intelligence. The goal was to c
 * Using sigmoid function as activation function
 
 ![](../assets/img/advanced1.png)
+
+<div markdown="0"><a href="https://github.com/Norden-Tenzin/440ArtificialIntelligence/tree/master/COLORIZATION" class="btn">Code</a></div>
