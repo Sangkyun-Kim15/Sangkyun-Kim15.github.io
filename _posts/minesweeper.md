@@ -5,7 +5,7 @@ date:   2021-08-09
 excerpt: "CS440 Intro Artificial Intelligence"
 project: true
 tag:
-- neural network
+- Probablistic search
 - ai
 comments: true
 ---
