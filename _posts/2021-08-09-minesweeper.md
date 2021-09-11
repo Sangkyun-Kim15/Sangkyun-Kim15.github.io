@@ -29,6 +29,6 @@ This was the project from CS440 Intro Artificial Intelligence. The goal was to c
 ![](../assets/img/mine.png)
 
 <div markdown="0">
-    <a href="https://github.com/Norden-Tenzin/440ArtificialIntelligence/tree/master/COLORIZATION" class="btn">Code</a>
-    <a href="https://github.com/Norden-Tenzin/440ArtificialIntelligence/blob/master/COLORIZATION/Report4_sk1998_tn266.pdf" class="btn">Tech Report</a>
+    <a href="https://github.com/Norden-Tenzin/440ArtificialIntelligence/tree/master/MINESWEEPER" class="btn">Code</a>
+    <a href="https://github.com/Norden-Tenzin/440ArtificialIntelligence/blob/master/MINESWEEPER/Report2_tn266_sk1998.pdf" class="btn">Tech Report</a>
 </div>
