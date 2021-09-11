@@ -16,7 +16,7 @@ This was the project from CS440 Intro Artificial Intelligence. The goal was to c
 * Grouping was based on the distance between the target pixcel and each centroid
 * Using euclidean distance for calculate the distance.
 
-![](./assets/img/basic1.png)
+![](../assets/img/basic1.png)
 
 ## Neural Networks version (Advanced agent)
 * A Feed-Forwarding 3 layers neural networks
