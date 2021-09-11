@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Minesweeper Solving Program"
-date:   2021-09-09
+date:   2021-08-09
 excerpt: "CS440 Intro Artificial Intelligence"
 project: true
 tag:
