@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Train Reservation System"
-date:   2021-09-09
+date:   2021-06-09
 excerpt: "CS336 Principles of Information and Data Management"
 project: true
 tag:
