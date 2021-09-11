@@ -27,4 +27,7 @@ This was the project from CS440 Intro Artificial Intelligence. The goal was to c
 
 ![](../assets/img/advanced1.png)
 
-<div markdown="0"><a href="https://github.com/Norden-Tenzin/440ArtificialIntelligence/tree/master/COLORIZATION" class="btn">Code</a></div>
+<div markdown="0">
+    <a href="https://github.com/Norden-Tenzin/440ArtificialIntelligence/tree/master/COLORIZATION" class="btn">Code</a>
+    <a href="https://github.com/Norden-Tenzin/440ArtificialIntelligence/blob/master/COLORIZATION/Report4_sk1998_tn266.pdf" class="btn">Code</a>
+</div>
