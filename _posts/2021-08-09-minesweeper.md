@@ -9,23 +9,24 @@ tag:
 - ai
 comments: true
 ---
-This was the project from CS440 Intro Artificial Intelligence. The goal was to convert grey scale image to two colorized version of image by using K mean clustering and neural networks.
+This was the project from CS440 Intro Artificial Intelligence. The goal was to creat a bot that can play minesweeper.
 
-## K mean clustering verion (Basic agent)
-* Select 5 random pixel for grouping
-* Grouping was based on the distance between the target pixcel and each centroid
-* Using euclidean distance for calculate the distance.
+## Basic Agent
+* The baisc agent cannot infer. It only plays the safest moves possible
+* If no hidden cell can be idenrified as a mine or safe, it ramdoly pick a cell to reveal
 
-![](../assets/img/basic1.png)
+## Advances Agent
+* This bot was implented based on CSP(Constraint Satisfaction Problem)
+* Creating constraints as a equation and add, remove, or update constraints in knowledge
+* Infer next step based on this knowledge
+* If no hidden cell can be idenrified as a mine or safe, it ramdoly pick a cell to reveal
 
-## Neural Networks version (Advanced agent)
-* A Feed-Forwarding 3 layers neural networks
-* 9 nodes in the input layer (3x3 patch = 9 pixel)
-* 5 nodes in the hidden layer
-* 3 nodes in output layer (pixel has R, G, B)
-* Using sigmoid function as activation function
+## Bonus Advances Agent
+* If no hidden cell can be idenrified as a mine or safe, it pick a cell to reveal based on probability
+* Calculate all the possible scenarios based on the knowledge by using combination and product
+* Compute the probability of each cell those in the equations in knowledge(number of cell showing up in the scenario / number of total scenario).
 
-![](../assets/img/advanced1.png)
+![](../assets/img/mine.png)
 
 <div markdown="0">
     <a href="https://github.com/Norden-Tenzin/440ArtificialIntelligence/tree/master/COLORIZATION" class="btn">Code</a>
