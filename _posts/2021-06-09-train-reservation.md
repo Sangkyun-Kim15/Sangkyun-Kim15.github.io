@@ -9,25 +9,31 @@ tag:
 - ai
 comments: true
 ---
-This was the project from CS440 Intro Artificial Intelligence. The goal was to convert grey scale image to two colorized version of image by using K mean clustering and neural networks.
+This was the project from CS335 Principles of Information and Data Management. The goal was to implement train reservation web application in Java.
 
-## K mean clustering verion (Basic agent)
-* Select 5 random pixel for grouping
-* Grouping was based on the distance between the target pixcel and each centroid
-* Using euclidean distance for calculate the distance.
+## Specification
+* Account functionality
+    * Register, login, logout
+* Browsing and search functionality
+    * Search schedule by condition
+    * sort by different criteria
+* Reservations
+    * Make resercation for a specific route
+    * Get discount
+    * Cancle reservation
+    * View reservation history
+* Admin functions
+    * Manage information
+    * Sales report per month
+    * list of reservation by specific condition
+    * list of renenue per line or customer
+* Customer representative
+    * edit train schedule
+    * manage cumstomer's questions 
 
-![](../assets/img/basic1.png)
-
-## Neural Networks version (Advanced agent)
-* A Feed-Forwarding 3 layers neural networks
-* 9 nodes in the input layer (3x3 patch = 9 pixel)
-* 5 nodes in the hidden layer
-* 3 nodes in output layer (pixel has R, G, B)
-* Using sigmoid function as activation function
-
-![](../assets/img/advanced1.png)
+![](https://github.com/Sangkyun-Kim15/Principles-of-Information-and-Data-Management/blob/master/28ERDiagram.pdf)
 
 <div markdown="0">
-    <a href="https://github.com/Norden-Tenzin/440ArtificialIntelligence/tree/master/COLORIZATION" class="btn">Code</a>
-    <a href="https://github.com/Norden-Tenzin/440ArtificialIntelligence/blob/master/COLORIZATION/Report4_sk1998_tn266.pdf" class="btn">Tech Report</a>
+    <a href="https://github.com/Sangkyun-Kim15/Principles-of-Information-and-Data-Management" class="btn">Code</a>
+    <a href="https://github.com/Sangkyun-Kim15/Principles-of-Information-and-Data-Management/blob/master/Project_Schema.sql" class="btn">schema</a>
 </div>
