@@ -17,6 +17,7 @@ comments: false
 ## Work Experience
 * RoitechOne, Seoul, South Korea,               Nov 2015 - May 2016
     * Researcher
+    * Web development in Java
 
 ## Extracurricular
 * Republic of Korea Army Sergent,               Nov 2010
