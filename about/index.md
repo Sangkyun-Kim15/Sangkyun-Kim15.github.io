@@ -21,3 +21,7 @@ comments: false
 ## Extracurricular
 * Republic of Korea Army Sergent,               Nov 2010
     * Honorable Discharge
+
+<div markdown="0">
+    <a href="https://github.com/Sangkyun-Kim15/Sangkyun-Kim15.github.io/blob/master/assets/img/Resume_SK_Kim.pdf" class="btn">Resume</a>
+</div>
