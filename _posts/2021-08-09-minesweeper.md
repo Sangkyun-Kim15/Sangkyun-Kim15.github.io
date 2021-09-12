@@ -3,11 +3,11 @@ layout: post
 title:  "Minesweeper Solving Program"
 date:   2021-08-09
 excerpt: "CS440 Intro Artificial Intelligence"
-project: none
+project: true
 tag:
 - csp
 - ai
-comments: true
+comments: none
 ---
 This was the project from CS440 Intro Artificial Intelligence. The goal was to creat a bot that can play minesweeper.
 
