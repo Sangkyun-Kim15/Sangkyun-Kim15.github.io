@@ -7,7 +7,7 @@ project: true
 tag:
 - neural network
 - ai
-comments: true
+comments: none
 ---
 This was the project from CS440 Intro Artificial Intelligence. The goal was to convert grey scale image to two colorized version of image by using K mean clustering and neural networks.
 
