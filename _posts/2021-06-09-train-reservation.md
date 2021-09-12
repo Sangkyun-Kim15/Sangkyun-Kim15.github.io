@@ -31,7 +31,7 @@ This was the project from CS335 Principles of Information and Data Management. T
     * edit train schedule
     * manage cumstomer's questions 
 
-![](https://github.com/Sangkyun-Kim15/Principles-of-Information-and-Data-Management/blob/master/28ERDiagram.pdf)
+![](../assets/img/train.png)
 
 <div markdown="0">
     <a href="https://github.com/Sangkyun-Kim15/Principles-of-Information-and-Data-Management" class="btn">Code</a>
