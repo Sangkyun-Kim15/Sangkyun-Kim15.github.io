@@ -3,7 +3,7 @@ layout: post
 title:  "Minesweeper Solving Program"
 date:   2021-08-09
 excerpt: "CS440 Intro Artificial Intelligence"
-project: true
+project: none
 tag:
 - csp
 - ai
