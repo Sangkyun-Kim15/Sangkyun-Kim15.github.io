@@ -24,5 +24,5 @@ comments: false
     * Honorable Discharge
 
 <div markdown="0">
-    <a href="https://github.com/Sangkyun-Kim15/Sangkyun-Kim15.github.io/blob/master/assets/img/Resume_SK_Kim.pdf" class="btn">Resume</a>
+    <a href="https://github.com/Sangkyun-Kim15/Sangkyun-Kim15.github.io/blob/master/assets/img/Resume_SKim.pdf" class="btn">Resume</a>
 </div>
