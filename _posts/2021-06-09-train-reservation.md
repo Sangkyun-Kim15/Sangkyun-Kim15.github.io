@@ -7,7 +7,7 @@ project: true
 tag:
 - neural network
 - ai
-comments: true
+comments: none
 ---
 This was the project from CS335 Principles of Information and Data Management. The goal was to implement train reservation web application in Java.
 
