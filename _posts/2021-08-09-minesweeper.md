@@ -7,7 +7,7 @@ project: true
 tag:
 - csp
 - ai
-comments: none
+comments: false
 ---
 This was the project from CS440 Intro Artificial Intelligence. The goal was to creat a bot that can play minesweeper.
 
