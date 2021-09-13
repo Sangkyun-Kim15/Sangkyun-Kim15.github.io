@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Image Colorizer with nueral networks"
+title:  "Image Colorizer with neural networks"
 date:   2021-09-09
 excerpt: "CS440 Intro Artificial Intelligence"
 project: true
