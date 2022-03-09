@@ -9,7 +9,7 @@ tag:
 - ai
 comments: false
 ---
-This was the project from CS335 Principles of Information and Data Management. The goal was to implement train reservation web application in Java.
+This was the project from CS335 Principles of Information and Data Management. The goal was to implement a train reservation web application in Java.
 
 ## Specification
 * Account functionality
@@ -18,18 +18,18 @@ This was the project from CS335 Principles of Information and Data Management. T
     * Search schedule by condition
     * sort by different criteria
 * Reservations
-    * Make resercation for a specific route
+    * Make a reservation for a specific route
     * Get discount
-    * Cancle reservation
+    * Cancel reservation
     * View reservation history
 * Admin functions
     * Manage information
     * Sales report per month
-    * list of reservation by specific condition
-    * list of renenue per line or customer
+    * list of reservations by specific condition
+    * list of revenue per line or customer
 * Customer representative
     * edit train schedule
-    * manage cumstomer's questions 
+    * manage customer's questions 
 
 ![](../assets/img/train.png)
 
