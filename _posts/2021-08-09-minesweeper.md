@@ -9,22 +9,22 @@ tag:
 - ai
 comments: false
 ---
-This was the project from CS440 Intro Artificial Intelligence. The goal was to creat a bot that can play minesweeper.
+This was the project from CS440 Intro Artificial Intelligence. The goal was to create a bot that can play minesweeper.
 
 ## Basic Agent
-* The baisc agent cannot infer. It only plays the safest moves possible
-* If no hidden cell can be idenrified as a mine or safe, it ramdoly pick a cell to reveal
+* The basic agent cannot infer. It only plays the safest moves possible
+* If no hidden cell can be identified as a mine or safe, it randomly pick a cell to reveal
 
 ## Advances Agent
-* This bot was implented based on CSP(Constraint Satisfaction Problem)
-* Creating constraints as a equation and add, remove, or update constraints in knowledge
+* This bot was implemented based on CSP(Constraint Satisfaction Problem)
+* Creating constraints as an equation and adding, removing, or updating constraints in knowledge
 * Infer next step based on this knowledge
-* If no hidden cell can be idenrified as a mine or safe, it ramdoly pick a cell to reveal
+* If no hidden cell can be identified as a mine or safe, it randomly pick a cell to reveal
 
 ## Bonus Advances Agent
-* If no hidden cell can be idenrified as a mine or safe, it pick a cell to reveal based on probability
+* If no hidden cell can be identified as a mine or safe, it picks a cell to reveal based on probability
 * Calculate all the possible scenarios based on the knowledge by using combination and product
-* Compute the probability of each cell those in the equations in knowledge(number of cell showing up in the scenario / number of total scenario).
+* Compute the probability of each cell those in the equations in knowledge(number of cells showing up in the scenario/number of total scenario).
 
 ![](../assets/img/mine.png)
 
