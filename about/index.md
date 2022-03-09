@@ -15,8 +15,8 @@ comments: false
     * BA in Food Resoureces Economics
 
 ## Work Experience
-* RoitechOne, Seoul, South Korea,               Nov 2015 - May 2016
-    * Researcher
+* Java developer                                Nov 2015 - May 2016
+    * RoitechOne, Seoul, South Korea
     * Web development in Java
 
 ## Extracurricular
